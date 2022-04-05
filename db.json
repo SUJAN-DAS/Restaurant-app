@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Name": "Surbhi",
+      "Email": "test@gmail.com",
+      "Mobile": "8937298012",
+      "Address": "Amritsar",
+      "Service": "Chai"
+    },
+    {
+      "id": 2,
+      "Name": "swapna",
+      "Email": "swapna@gmail.com",
+      "Mobile": "9765643212",
+      "Address": "lucknow",
+      "Service": "Coffee"
+    },
+    {
+      "id": 4,
+      "Name": "Vaniii",
+      "Email": "deepsikha.minu@gmail.com",
+      "Mobile": "8763315339",
+      "Address": "Lanka,Varanasi",
+      "Service": "Veg Manchurian"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Swetalina",
+      "email": "swesilu@gmail.com",
+      "mobile": "7752085377",
+      "password": "Panda",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
